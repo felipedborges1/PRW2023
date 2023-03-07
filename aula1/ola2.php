@@ -7,9 +7,10 @@
     <title>Document</title>
 </head>
 <body>
-    <h1> Exemplo Olá Mundo </h1>
+    <h1> Exercicio 1 </h1>
     <?php
-        echo "<h2> Olá IFSP </h2>";
+        $variavel1 = "<h2> Olá Mundo </h2>";
+        echo $variavel1
     ?>
 </body>
 </html>
